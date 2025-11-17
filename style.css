@@ -16,4 +16,11 @@ nav{
     padding-top: 30px;
 }
 
+p img{
+    width: 200px;
+    height: 150px;
+}
 
+.name{
+    text-align: center;
+}
